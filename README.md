@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on my learning journey.
-- 📫 How to reach me through Facebook:
+- 📫 Reach me through Facebook:
       https://www.facebook.com/profile.php?id=100028545702525
 
 <!---
