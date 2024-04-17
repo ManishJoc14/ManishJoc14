@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManishJoc14
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m interested in MERN stack dvelopment.
+- 🌱 I’m currently learning NextJS.
 - 💞️ I’m looking to collaborate on my learning journey.
 - 📫 Reach me through Facebook:
       https://www.facebook.com/profile.php?id=100028545702525
