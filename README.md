@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Manish Joshi ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
+# 👋 Hi there, I'm Manish Joshi 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
 
 I'm a passionate full-stack developer, constantly exploring technologies that help create scalable, performant, and beautiful web experiences. Currently focused on:
 
