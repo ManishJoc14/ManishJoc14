@@ -57,7 +57,7 @@ I'm a passionate full-stack developer, constantly exploring technologies that he
 ## 📊 GitHub Stats
 
 ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishJoc14&theme=default&hide_border=false&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishJoc14&theme=default&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishJoc14&theme=default&hide_border=false)
 
 ---
 
