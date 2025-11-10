@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Manish Joshi 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
 
-I'm a passionate full-stack developer, constantly exploring technologies that help create scalable, performant, and beautiful web experiences. Currently focused on:
-
-- 🔭 Building full-stack applications with modern frameworks.
-- 🌱 Deepening my understanding of **Data Structures & Algorithms** and mastering advanced **frontend techniques**.
-- 🧠 Continuously learning tools like **Next.js 15**, **React**, and **Three.js** for building immersive user interfaces.
-- ⚡ Developed a real-time chat app like **Omegle** and secured **3rd place** in the **NASA Space Apps Challenge**.
+I’m a learner and AI/ML enthusiast. 
+Currently focused on:
+🧠 Diving deep into Machine Learning and Neural Networks — from basic models to Transformers.
+🔭 Developing full-stack applications that integrate AI features.
+🌱 Strengthening my foundations in Data Structures & Algorithms and Advanced Frontend Engineering.
+⚡ Built a real-time chat app like Omegle and secured 3rd place in the NASA Space Apps Challenge.
 
 ---
 
