@@ -3,9 +3,13 @@
 
 I’m a learner and AI/ML enthusiast. 
 Currently focused on:
-🧠 Diving deep into Machine Learning and Neural Networks — from basic models to Transformers.
+
+🧠 Diving deep into artificial intelligence and machine learning.
+
 🔭 Developing full-stack applications that integrate AI features.
+
 🌱 Strengthening my foundations in Data Structures & Algorithms and Advanced Frontend Engineering.
+
 ⚡ Built a real-time chat app like Omegle and secured 3rd place in the NASA Space Apps Challenge.
 
 ---
