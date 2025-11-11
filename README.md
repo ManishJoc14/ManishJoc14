@@ -1,16 +1,17 @@
 # 👋 Hi there, I'm Manish Joshi 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
 
-I’m a learner and AI/ML enthusiast. 
-Currently focused on:
+A curious learner and growing AI/ML enthusiast, building my craft one experiment at a time.
 
-🧠 Diving deep into artificial intelligence and machine learning.
+🧠 Currently diving deep into Artificial Intelligence and Machine Learning, exploring models, architectures, and real-world applications.
 
-🔭 Developing full-stack applications that integrate AI features.
+🔭 Developing full-stack applications that integrate intelligent features and practical ML workflows.
 
-🌱 Strengthening my foundations in Data Structures & Algorithms and Advanced Frontend Engineering.
+🌱 Strengthening my foundations in Data Structures & Algorithms and Advanced Frontend Engineering to level up my problem-solving and engineering rigor.
 
-⚡ Built a real-time chat app like Omegle and secured 3rd place in the NASA Space Apps Challenge.
+⚡ Built a real-time chat application (Omegle-style) and secured 3rd place in the NASA Space Apps Challenge.
+
+Always growing, always experimenting — and always excited about what’s next. 🚀
 
 ---
 
