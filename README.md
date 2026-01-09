@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manish Joshi 
+# 👋 Hi there, I'm Manish Joshi.. 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
 
 A curious learner and growing AI/ML enthusiast, building my craft one experiment at a time.
