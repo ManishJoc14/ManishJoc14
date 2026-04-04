@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="width:150px; height:150px; overflow:hidden; border-radius:50%; margin:auto;">
-    <img src="https://avatars.githubusercontent.com/u/120154327?s=400&u=883ae59fd9d67aa3c490b316d07f113fd21c32df&v=4" width="200">
-  </div>
+ <p>
+    <img src="https://user-images.githubusercontent.com/107404712/226938124-f65c8087-4cae-472a-ad1f-60f669f71bd4.png" width="200"/>
+  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ManishJoc14" alt="GitHub Profile Views" style="margin-top:5px;"/>
@@ -10,7 +10,7 @@
   <!-- Waving hand GIF -->
   <h1>
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-    Hi, I'm Manish Joshi
+    Hi, I'm Manish Joshi..
   </h1>
 
   <p>
