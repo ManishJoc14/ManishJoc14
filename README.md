@@ -1,27 +1,26 @@
-# 👋 Hi there, I'm Manish Joshi.. 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=ManishJoc14)
+<div align="center">
+  <div style="width:150px; height:150px; overflow:hidden; border-radius:50%; margin:auto;">
+    <img src="https://avatars.githubusercontent.com/u/120154327?s=400&u=883ae59fd9d67aa3c490b316d07f113fd21c32df&v=4" width="200" style="border-radius:50%;">
+  </div>
 
----
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ManishJoc14" alt="GitHub Profile Views" style="margin-top:5px;"/>
+  </p>
 
-## 📊 GitHub Stats
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishJoc14&theme=default&hide_border=false&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishJoc14&theme=default&hide_border=false)
+  <h1>👋 Hi, I'm Manish Joshi..</h1>
 
----
 
-## 💬 Quote of the Day
+  <p>
+    <a href="https://manish-joshi.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/manish-joshi-dharmananda-9762b2304/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:manishjoc14@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📬 Let's Connect
-
-Feel free to reach out if you'd like to collaborate, ask questions, or just say hi! I'm always open to connecting with fellow developers and learners.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-joshi-dharmananda-9762b2304/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishjoc14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManishJoc14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://manish-joshi.vercel.app/) 
-
+</div>
